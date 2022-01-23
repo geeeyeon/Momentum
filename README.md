@@ -4,9 +4,8 @@
 
 ## 크롭 앱 만들기
 
-*로그인
-*시계
-*배경화면
-*명언
-*ToDo리스트
-*날씨
+- JS Clock
+- JS To Do List
+- Get Geolocation
+- Get Weather Information - Open Weather API
+- Deploy to Github Pages
