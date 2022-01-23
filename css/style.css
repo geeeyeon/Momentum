@@ -1,3 +1,18 @@
 .hidden {
   display: none;
 }
+#clock {
+  background-color: cadetblue;
+}
+#bgImage {
+  background-repeat: no-repeat;
+  /* background-position: left top;
+  background-attachment: fixed; */
+  background-position: 500px 500px;
+}
+#quote {
+  color: dodgerblue;
+}
+#todo-list {
+  list-style-type: square;
+}
